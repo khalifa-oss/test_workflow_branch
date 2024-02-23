@@ -1,1 +1,1 @@
-use jwt security
+use basic aithentication
